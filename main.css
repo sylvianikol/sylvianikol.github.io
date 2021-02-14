@@ -200,7 +200,7 @@ nav {
       rgba(0, 64, 77, 0.9) 0%,
       rgb(0, 0, 0, 0.8) 100%
     ),
-    url("/images/landing-page_bg.png") center no-repeat;
+    url("images/landing-page_bg.png") center no-repeat;
   background-size: contain;
   position: relative;
 }
