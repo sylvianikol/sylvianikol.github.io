@@ -304,7 +304,7 @@ nav {
 
 .about {
   width: 100%;
-  min-height: 100vh;
+  min-height: 30vh;
   max-width: 70rem;
   margin: auto;
 }
@@ -312,7 +312,7 @@ nav {
 .about .container {
   display: flex;
   align-items: center;
-  min-height: 80vh;
+  min-height: 60vh;
 }
 
 .about-img img {
@@ -356,7 +356,7 @@ hr {
 
 .services {
   padding: 3rem 0;
-  min-height: 100vh;
+  min-height: 30vh;
   max-width: 90rem;
   margin: auto;
 }
@@ -368,7 +368,7 @@ hr {
 
 .title-heading h2 {
   font-size: 2rem;
-  margin: 0.5rem 0 1rem 0;
+  margin: 0.5rem 0 1rem 0; 
 }
 
 .title-heading p {
@@ -383,7 +383,7 @@ hr {
 }
 
 .tier-item {
-  height: 30rem;
+  height: 20rem;
   padding: 3rem;
   position: relative;
   display: flex;
@@ -417,7 +417,7 @@ hr {
 
 .projects {
   padding: 3rem 0;
-  min-height: 100vh;
+  min-height: 30vh;
   max-width: 70rem;
   margin: auto;
 }
@@ -469,10 +469,9 @@ hr {
 
 .contact {
   width: 100%;
-  /* min-height: 100vh; */
+  min-height: 20vh;
   max-width: 70rem;
-  margin: auto;
-  padding-top: 5rem;
+  margin: auto; 
 }
 
 .contact h2 {
